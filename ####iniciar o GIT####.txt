@@ -1,0 +1,15 @@
+####iniciar o GIT####
+
+executar o bash na pasta ads_2a3a
+
+git init 
+
+git status 
+
+git add . 
+
+git commit -m "comentário"
+
+git push -u origin main //enviar para o github
+
+
